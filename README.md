@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @bobskunk
+- 👀 I’m interested in Space Station 13
+- 🌱 I’m currently learning what the hell a coding is
+- 💞️ I’m looking to collaborate on a Goonstation fork
+- 📫 I have a twitter account with the same username, it is not recommended.
